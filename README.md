@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 Installation (Windows Only):
+## 💻 Installation:
 
 Follow these steps to get **WiCrack-Py** up and running on your machine:
 
@@ -37,6 +37,36 @@ To use WiCrack-Py, follow these steps:
 
 2. Enter the target SSID and path to your wordlist when prompted.
 3. The tool will begin testing passwords from the wordlist and display the progress in the terminal.
+
+```
+Installation Steps:
+Install Git: If you don’t have Git installed, go to Git's official website and download the appropriate version for your operating system.
+
+Clone the Repository:
+
+Open Command Prompt or PowerShell in Windows.
+
+Clone the repository using the following command:
+
+
+"git clone https://github.com/idushamanakacyber/WiCrack-Py.git"
+Navigate to the Project Directory: Change into the directory where the project has been cloned:
+
+
+"cd WiCrack-Py"
+Install Required Libraries: You’ll need the pywifi library to run this code. Install it with:
+
+
+"pip install pywifi"
+
+Running the Code:
+Once the installation steps are complete, run the script using the following command:
+
+
+"python wicrack.py"
+```
+
+
 
 ## 📝 Example:
 *Here’s how it looks in the terminal**:
@@ -63,4 +93,6 @@ This project is licensed under the MIT License - see LICENSE for details.
 ## 👨‍💻 Author:
 Idusha Manaka
 
-GitHub: @idushamanakacyber
+- GitHub: [@idushamanakacyber](https://github.com/idushamanakacyber)
+- YouTube: [@idushamanaka-cyber](https://www.youtube.com/@idushamanaka-cyber)
+
