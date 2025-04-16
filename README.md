@@ -1,4 +1,4 @@
-## ⚠️This tool is under development and has only been tested on Windows, but Termux may be available soon. but you van use this now
+## ⚠️This tool is under development and has only been tested on Windows, but Termux may be available soon. but you can use this now
 
 
 # WiCrack-Py
