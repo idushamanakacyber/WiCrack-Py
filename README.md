@@ -34,7 +34,14 @@ Follow these steps to get **WiCrack-Py** up and running on your machine:
 To use WiCrack-Py, follow these steps:
 
 1. **Run the script**:
-
+   
+   ```
+   cd WiCrack-Py
+   ```
+   ```
+      cd main
+   ```
+   
    ```bash
    python wicrack.py
 
