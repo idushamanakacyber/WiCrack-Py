@@ -1,3 +1,6 @@
+## ⚠️This tool is under development and has only been tested on Windows, but Termux may be available soon.
+
+
 # WiCrack-Py
 
 **WiCrack-Py** is a Python-based Wi-Fi password cracking tool built using the `pywifi` library. This tool is designed for **educational purposes** to demonstrate the process of brute-forcing Wi-Fi passwords using a wordlist. It can be used to test the security of your own Wi-Fi networks.
