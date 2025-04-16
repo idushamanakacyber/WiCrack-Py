@@ -50,7 +50,7 @@ To use WiCrack-Py, follow these steps:
 
 ```
 Installation Steps:
-Install Git: If you don’t have Git installed, go to Git's official website and download the appropriate version for your operating system.
+Install Git: If you don’t have Git installed, go to Git's official website and download the appropriate version for your operating system [Git's official website](https://git-scm.com/).
 
 Clone the Repository:
 
