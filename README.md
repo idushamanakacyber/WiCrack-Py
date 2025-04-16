@@ -39,7 +39,7 @@ To use WiCrack-Py, follow these steps:
    cd WiCrack-Py
    ```
    ```
-      cd main
+   cd main
    ```
    
    ```bash
